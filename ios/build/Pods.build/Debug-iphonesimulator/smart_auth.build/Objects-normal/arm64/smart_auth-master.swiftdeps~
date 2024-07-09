@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "bf6da706a81727466ff922f73205e70e61f9cfd6c4f131e12d0e1607c951b06b"
+build_start_time: [1719648067, 839215993]
+build_end_time: [1719648067, 924161911]
+inputs:
+  "/Users/bkse/.pub-cache/hosted/pub.dev/smart_auth-1.1.1/ios/Classes/SwiftSmartAuthPlugin.swift": !private [1718865760, 473066806]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "172844a58184821b462eee436335aea04b1f00e3c8771eb1732d009c71d8a3fb"
+build_start_time: [1719648104, 712821960]
+build_end_time: [1719648104, 770351886]
+inputs:
+  "/Users/bkse/Documents/mephar_app/ios/Runner/AppDelegate.swift": !private [1715047836, 485661029]

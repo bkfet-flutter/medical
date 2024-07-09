@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "28de52d208d4b5d32d503a30e2a84406873756fda3f4c4f7b6f49c330641525a"
+build_start_time: [1719648077, 440720081]
+build_end_time: [1719648079, 950075149]
+inputs:
+  "/Users/bkse/Documents/mephar_app/ios/Pods/ReachabilitySwift/Sources/Reachability.swift": [1715832805, 105048418]

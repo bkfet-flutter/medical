@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "dc59a2f185abb2e9571c6d2a6290634b9df03dffde232f927229343f2524809f"
+build_start_time: [1719648067, 839468002]
+build_end_time: [1719648081, 642785072]
+inputs:
+  "/Users/bkse/.pub-cache/hosted/pub.dev/qr_code_scanner-1.0.1/ios/Classes/QRView.swift": [1718865762, 118558645]
+  "/Users/bkse/.pub-cache/hosted/pub.dev/qr_code_scanner-1.0.1/ios/Classes/QRViewFactory.swift": [1718865762, 118202686]
+  "/Users/bkse/.pub-cache/hosted/pub.dev/qr_code_scanner-1.0.1/ios/Classes/SwiftFlutterQrPlugin.swift": [1718865762, 117437839]

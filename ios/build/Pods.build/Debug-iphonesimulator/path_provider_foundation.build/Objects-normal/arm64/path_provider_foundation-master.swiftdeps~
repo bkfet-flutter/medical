@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "857a49a21484af445831edd00c431f32710b06f037998cb8cb5f1799676f47ab"
+build_start_time: [1719648067, 839216947]
+build_end_time: [1719648067, 926968097]
+inputs:
+  "/Users/bkse/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2/darwin/Classes/PathProviderPlugin.swift": !private [1718865766, 100123882]
+  "/Users/bkse/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2/darwin/Classes/messages.g.swift": !private [1718865766, 99287509]

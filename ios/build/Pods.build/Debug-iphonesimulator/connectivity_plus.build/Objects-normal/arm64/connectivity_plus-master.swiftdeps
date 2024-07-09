@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "9432bd5266afc79e8e407411ffb7ba64f45899128f456831325a87c7199eae4a"
+build_start_time: [1719648078, 499825954]
+build_end_time: [1719648080, 352921009]
+inputs:
+  "/Users/bkse/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/ConnectivityProvider.swift": [1718865789, 684645652]
+  "/Users/bkse/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/PathMonitorConnectivityProvider.swift": [1718865789, 709624767]
+  "/Users/bkse/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/ReachabilityConnectivityProvider.swift": [1718865789, 696873188]
+  "/Users/bkse/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/SwiftConnectivityPlusPlugin.swift": [1718865789, 658432006]
